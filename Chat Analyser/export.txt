@@ -1,0 +1,4 @@
+ Illays => average length of words: 5.30614 average number of words: 6.28314
+ Illays has: 5439 messages
+ Wh => average length of words: 4.0392 average number of words: 5.4139
+ Wh has: 7120 messages
